@@ -11,7 +11,7 @@ Engineering student @ UIR (Ing3) and passionate about low-level systems, cyberse
 ## ⌨️ Progamming languages
 - **C** ➡️ Intermediate
 - **C++** ➡️ Intermediate
--  **Assembly** ➡️ Intermediate
+-  **Assembly** ➡️ Beginner
 -  **Python** ➡️ Intermediate
 
 ## 📌 Interests
