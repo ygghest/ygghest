@@ -5,7 +5,7 @@ Engineering student @ UIR (Ing3) and passionate about low-level systems, cyberse
 ## 🔗 Find me ON : 
 - **HackTheBox** --> [app.hackthebox.com/users/ygghest](https://app.hackthebox.com/users/ygghest)
 - **TryHackMe** --> [tryhackme.com/p/ygghest](https://tryhackme.com/p/ygghest)
-- **root-me**[http://root-me.org/ygghest](http://root-me.org/ygghest)
+- **Root-Me** --> *[http://root-me.org/ygghest](http://root-me.org/ygghest)
 - **GitHub** --> you're already here !
 
 ## ⌨️ Progamming languages
