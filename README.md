@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey, I'm Ygghest 
 
-<!--
-**ygghest/ygghest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering student @ UIR (Ing3) and passionate about low-level systems, cybersecurity & RE (Reverse Engineering).
 
-Here are some ideas to get you started:
+## 🔗 Find me ON : 
+- **HackTheBox** --> [app.hackthebox.com/users/ygghest](https://app.hackthebox.com/users/ygghest)
+- **TryHackMe** --> [tryhackme.com/p/ygghest](https://tryhackme.com/p/ygghest)
+- **GitHub** --> you're already here, i think...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⌨️ Stack
+`C` `C++` `Assembly` `Python` `PHP` `Linux`
+
+## 📌 Interests
+Low-level security · Kernel dev · Exploit research · CTFs · Reverse engineering
+
+## 📊 My (not overwhelming) Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ygghest&show_icons=true&theme=dark)
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=ygghest&show_icons=true&theme=dark)
