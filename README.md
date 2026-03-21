@@ -3,7 +3,7 @@
 Engineering student @ UIR (Ing3) and passionate about low-level systems, cybersecurity & RE (Reverse Engineering).
 
 ## 🔗 Find me ON : 
-- **HackTheBox** ➡️  [app.hackthebox.com/users/ygghest](https://app.hackthebox.com/users/ygghest)
+- **HackTheBox** ➡️  #[app.hackthebox.com/users/ygghest](https://app.hackthebox.com/users/ygghest)
 - **TryHackMe** ➡️ [tryhackme.com/p/ygghest](https://tryhackme.com/p/ygghest)
 - **Root-Me** ➡️ [http://root-me.org/ygghest](http://root-me.org/ygghest)
 - **GitHub** ➡️ you're already here !
