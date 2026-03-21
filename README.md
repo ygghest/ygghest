@@ -19,5 +19,4 @@ Low-level security · Kernel dev (no experience, but want to learn a lot about i
 
 ## 📊 My (not so overwhelming) Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ygghest&show_icons=true&theme=dark)
-![TryHackMe Completed Rooms](https://tryhackme.com/p/ygghest?tab=completed-rooms)
 
