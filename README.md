@@ -15,7 +15,12 @@ Engineering student @ UIR (Ing3) and passionate about low-level systems, cyberse
 -  **Python** ➡️ Intermediate
 
 ## 📌 Interests
-Low-level security · Kernel dev (no experience, but want to learn a lot about it) · Exploit research · CTFs · Reverse engineering
+- Low-level security
+- Reverse engineering
+- CTFs ·
+- Exploit research 
+- Kernel dev (no experience, but want to learn a lot about it)
+
 
 ## 📊 My (not so overwhelming) Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ygghest&show_icons=true&theme=dark)
