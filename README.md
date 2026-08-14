@@ -15,9 +15,9 @@ Engineering student @ UIR (Ing3) and passionate about low-level systems, cyberse
 -  **Python** : Intermediate
 
 ## Interests
-- Low-level security
+- Low-level 
 - Reverse engineering
-- CTFs ·
+- FPGA
 - Exploit research 
 - Kernel dev (no experience, but want to learn a lot about it)
 
