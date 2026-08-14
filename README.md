@@ -1,6 +1,6 @@
 # Hey, I'm Ygghest 
 
-Engineering student @ UIR (Ing3) and passionate about low-level systems, cybersecurity & RE (Reverse Engineering).
+Engineering student @ UIR (Ing3) and passionate about low-level systems, embedded systems & RE (Reverse Engineering).
 
 ## Find me ON : 
 - **HackTheBox** : [app.hackthebox.com/users/ygghest](https://app.hackthebox.com/users/ygghest)
@@ -9,10 +9,9 @@ Engineering student @ UIR (Ing3) and passionate about low-level systems, cyberse
 - **GitHub** : you're already here !
 
 ## Progamming languages
-- **C** : Intermediate
-- **C++** : Intermediate
--  **Assembly** : Beginner
--  **Python** : Intermediate
+- **C** 
+- **C++** 
+-  **Assembly** 
 
 ## Interests
 - Low-level 
